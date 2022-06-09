@@ -1,0 +1,5 @@
+C:\GitRep\CompanyWebaite\ArtynTech\ArtynTech.Common\obj\Debug\net6.0\ArtynTech.Common.csproj.AssemblyReference.cache
+C:\GitRep\CompanyWebaite\ArtynTech\ArtynTech.Common\obj\Debug\net6.0\ArtynTech.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitRep\CompanyWebaite\ArtynTech\ArtynTech.Common\obj\Debug\net6.0\ArtynTech.Common.AssemblyInfoInputs.cache
+C:\GitRep\CompanyWebaite\ArtynTech\ArtynTech.Common\obj\Debug\net6.0\ArtynTech.Common.AssemblyInfo.cs
+C:\GitRep\CompanyWebaite\ArtynTech\ArtynTech.Common\obj\Debug\net6.0\ArtynTech.Common.csproj.CoreCompileInputs.cache
